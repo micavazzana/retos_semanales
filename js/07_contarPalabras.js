@@ -18,4 +18,4 @@ function contarPalabras(str){
     return cadenaAux.length;
 }
 
-console.log(contarPalabras("Lorem ipsum sai amet"));
+console.log(contarPalabras("Lorem ipsum dolor sit amet"));
