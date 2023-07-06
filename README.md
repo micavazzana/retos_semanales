@@ -6,14 +6,14 @@ Obtuve todos los enunciados de los retos en **[retosdeprogramacion.com](https://
 
 ## Listado de retos [2022]
 
-* #0 - `"FIZZ BUZZ"`
-* #1 - `¿ES UN ANAGRAMA?`
-* #2 - `LA SUCESIÓN DE FIBONACCI`
-* #3 - `¿ES UN NÚMERO PRIMO?`
-* #4 - `ÁREA DE UN POLÍGONO`
+* #0 - [`"FIZZ BUZZ"`](https://github.com/micavazzana/retos_semanales/blob/main/js/fizzbuzz.js)
+* #1 - [`¿ES UN ANAGRAMA?`](https://github.com/micavazzana/retos_semanales/blob/main/js/esAnagrama.js)
+* #2 - [`LA SUCESIÓN DE FIBONACCI`](https://github.com/micavazzana/retos_semanales/blob/main/js/sucesionFibonacci.js)
+* #3 - [`¿ES UN NÚMERO PRIMO?`](https://github.com/micavazzana/retos_semanales/blob/main/js/esNumeroPrimo.js)
+* #4 - [`ÁREA DE UN POLÍGONO`](https://github.com/micavazzana/retos_semanales/blob/main/js/areaPoligono.js)
 * #5 - `ASPECT RATIO DE UNA IMAGEN`
-* #6 - `INVIRTIENDO CADENAS`
-* #7 - `CONTANDO PALABRAS`
+* #6 - [`INVIRTIENDO CADENAS`](https://github.com/micavazzana/retos_semanales/blob/main/js/reverseString.js)
+* #7 - [`CONTANDO PALABRAS`](https://github.com/micavazzana/retos_semanales/blob/main/js/contadorPalabras.js)
 * #8 - `DECIMAL A BINARIO`
 * #9 - `CÓDIGO MORSE`
 * #10 - `EXPRESIONES EQUILIBRADAS`
