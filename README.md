@@ -6,27 +6,27 @@ Obtuve todos los enunciados de los retos en **[retosdeprogramacion.com](https://
 
 ## Listado de retos [2022]
 
-* #0 - [`"FIZZ BUZZ"`](https://github.com/micavazzana/retos_semanales/blob/main/js/fizzbuzz.js)
-* #1 - [`¿ES UN ANAGRAMA?`](https://github.com/micavazzana/retos_semanales/blob/main/js/esAnagrama.js)
-* #2 - [`LA SUCESIÓN DE FIBONACCI`](https://github.com/micavazzana/retos_semanales/blob/main/js/sucesionFibonacci.js)
-* #3 - [`¿ES UN NÚMERO PRIMO?`](https://github.com/micavazzana/retos_semanales/blob/main/js/esNumeroPrimo.js)
-* #4 - [`ÁREA DE UN POLÍGONO`](https://github.com/micavazzana/retos_semanales/blob/main/js/areaPoligono.js)
-* #5 - `ASPECT RATIO DE UNA IMAGEN`
-* #6 - [`INVIRTIENDO CADENAS`](https://github.com/micavazzana/retos_semanales/blob/main/js/reverseString.js)
-* #7 - [`CONTANDO PALABRAS`](https://github.com/micavazzana/retos_semanales/blob/main/js/contadorPalabras.js)
-* #8 - `DECIMAL A BINARIO`
-* #9 - `CÓDIGO MORSE`
-* #10 - `EXPRESIONES EQUILIBRADAS`
-* #11 - `ELIMINANDO CARACTERES`
-* #12 - `¿ES UN PALÍNDROMO?`
-* #13 - `FACTORIAL RECURSIVO`
-* #14 - `¿ES UN NÚMERO DE ARMSTRONG?`
-* #15 - `¿CUÁNTOS DÍAS?`
-* #16 - `EN MAYÚSCULA`
-* #17 - `LA CARRERA DE OBSTÁCULOS`
-* #18 - `TRES EN RAYA`
-* #19 - `CONVERSOR TIEMPO`
-* #20 - `PARANDO EL TIEMPO`
+* #0 - [`"FIZZ BUZZ"`](https://github.com/micavazzana/retos_semanales/blob/main/js/00_fizzbuzz.js)
+* #1 - [`¿ES UN ANAGRAMA?`](https://github.com/micavazzana/retos_semanales/blob/main/js/01_esAnagrama.js)
+* #2 - [`LA SUCESIÓN DE FIBONACCI`](https://github.com/micavazzana/retos_semanales/blob/main/js/02_sucesionFibonacci.js)
+* #3 - [`¿ES UN NÚMERO PRIMO?`](https://github.com/micavazzana/retos_semanales/blob/main/js/03_esNumeroPrimo.js)
+* #4 - [`ÁREA DE UN POLÍGONO`](https://github.com/micavazzana/retos_semanales/blob/main/js/04_calcularAreaPoligono.js)
+* #5 - [`ASPECT RATIO DE UNA IMAGEN`](https://github.com/micavazzana/retos_semanales/blob/main/js/05_aspectRatio.js)
+* #6 - [`INVIRTIENDO CADENAS`](https://github.com/micavazzana/retos_semanales/blob/main/js/06_invertirCadena.js)
+* #7 - [`CONTANDO PALABRAS`](https://github.com/micavazzana/retos_semanales/blob/main/js/07_contarPalabras.js)
+* #8 - [`DECIMAL A BINARIO`](https://github.com/micavazzana/retos_semanales/blob/main/js/08_decimalABinario.js)
+* #9 - [`CÓDIGO MORSE`](https://github.com/micavazzana/retos_semanales/blob/main/js/09_codigoMorse.js)
+* #10 - [`EXPRESIONES EQUILIBRADAS`](https://github.com/micavazzana/retos_semanales/blob/main/js/10_expresionesEquilibradas.js)
+* #11 - [`ELIMINANDO CARACTERES`](https://github.com/micavazzana/retos_semanales/blob/main/js/11_eliminandoCaracteres.js)
+* #12 - [`¿ES UN PALÍNDROMO?`](https://github.com/micavazzana/retos_semanales/blob/main/js/12_esPalindromo.js)
+* #13 - [`FACTORIAL RECURSIVO`](https://github.com/micavazzana/retos_semanales/blob/main/js/13_factorialRecursivo.js)
+* #14 - [`¿ES UN NÚMERO DE ARMSTRONG?`](https://github.com/micavazzana/retos_semanales/blob/main/js/14_esNumeroAmstrong.js)
+* #15 - [`¿CUÁNTOS DÍAS?`](https://github.com/micavazzana/retos_semanales/blob/main/js/15_cuantosDias.js)
+* #16 - [`EN MAYÚSCULA`](https://github.com/micavazzana/retos_semanales/blob/main/js/16_enMayuscula.js)
+* #17 - [`LA CARRERA DE OBSTÁCULOS`](https://github.com/micavazzana/retos_semanales/blob/main/js/17_carreraDeObstaculos.js)
+* #18 - [`TRES EN RAYA`](https://github.com/micavazzana/retos_semanales/blob/main/js/18_tresEnRaya.js)
+* #19 - [`CONVERSOR TIEMPO`](https://github.com/micavazzana/retos_semanales/blob/main/js/19_conversorTiempo.js)
+* #20 - [`PARANDO EL TIEMPO`](https://github.com/micavazzana/retos_semanales/blob/main/js/20_parandoElTiempo.js)
 * #21 - `CALCULADORA.TXT`
 * #22 - `CONJUNTOS`
 * #23 - `MÁXIMO COMÚN DIVISOR Y MÍNIMO COMÚN MÚLTIPLO`
