@@ -27,7 +27,7 @@ Obtuve todos los enunciados de los retos en **[retosdeprogramacion.com](https://
 * #18 - `TRES EN RAYA`
 * #19 - `CONVERSOR TIEMPO`
 * #20 - `PARANDO EL TIEMPO`
-* #21 - `CALCULADORA .TXT`
+* #21 - `CALCULADORA.TXT`
 * #22 - `CONJUNTOS`
 * #23 - `MÁXIMO COMÚN DIVISOR Y MÍNIMO COMÚN MÚLTIPLO`
 * #24 - `ITERATION MASTER`
